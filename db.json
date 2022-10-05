@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Single Window",
+            "price": 1,
+            "image": "https://i.ibb.co/R9rds7P/Single.png"
+        },
+        {
+            "id": 2,
+            "name": "Double Window",
+            "price": 2,
+            "image": "https://i.ibb.co/tZ4QDSx/Double.png"
+        }
+    ]
+}
